@@ -6,15 +6,25 @@
 	* membandingkan nilai a,b,c dengan rumus if berikut kodenya
 	
 if (A>B){
+
         		if (A>C)
+
            		 cout<< "Bilangan Terbesar Adalah :" << A;
+
         		else
+
           		cout<< "Bilangan Terbesar Adalah :" << C;
+
         	}else{
+
         		if ( B>C )
+
             		cout << "Bilangan Terbesar Adalah:" << B;
+
        			 else
+
             		cout << "Bilangan Terbesar Adalah:" << C;
+
 
 2. ini hasilnya
 	![img](https://github.com/zahira12/praktikum2/blob/master/latihan1/hasil%201%20Screenshot.png)
