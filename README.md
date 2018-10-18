@@ -7,9 +7,10 @@
 	
 
 if (A>B){
+
        		if (A>C)
 
-       		 cout<< "Bilangan Terbesar Adalah :" << A;
+       		cout<< "Bilangan Terbesar Adalah :" << A;
 
        		else
 
